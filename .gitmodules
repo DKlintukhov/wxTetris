@@ -1,0 +1,4 @@
+[submodule "deps/wx"]
+	path = deps/wx
+	url = https://github.com/wxWidgets/wxWidgets.git
+    shallow = true
